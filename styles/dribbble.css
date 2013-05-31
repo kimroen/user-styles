@@ -19,3 +19,8 @@ div.ad.thedeck,
 p#view-comments-help {
   display: none !important;
 }
+
+/* Add the background to the body so it extends properly on taller screens/shorter pages */
+body {
+  background: #f0f0f0 url(/images/noise-f1.gif) repeat -70% 0;
+}

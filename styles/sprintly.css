@@ -13,3 +13,8 @@ div#support_menu,
 div#footer {
   display: none !important;
 }
+
+/* Add the background to the body so it extends properly on taller screens/shorter pages */
+body {
+  background: url(https://d105717d5kjoy6.cloudfront.net/fa755335d107/static/images/bg-white-fabric.png) repeat rgb(236, 235, 226) !important;
+}
